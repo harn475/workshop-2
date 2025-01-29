@@ -32,3 +32,20 @@ Introduce a more complex snowman design with additional accessories like a scarf
 ## Reflection
 This project was a fun and simple exercise in working with the p5.js library. It allowed me to practice creating dynamic animations and manipulating arrays to control objects on the canvas. I enjoyed experimenting with the snowflake effect and adding the snowman. Going forward, I’d like to explore more advanced animations and interactions with the canvas.
 
+Certainly! Here's a reference list along with a declaration of your help sources:
+
+---
+
+**Reference List:**
+
+1. p5.js Reference - 2D Primitives. (n.d.). Retrieved from [https://p5js.org/reference/#2D%20Primitives](https://p5js.org/reference/#2D%20Primitives)
+   
+2. p5.js Discourse Forum. (n.d.). Retrieved from [https://discourse.processing.org/c/p5js/10](https://discourse.processing.org/c/p5js/10)
+   
+3. Reddit User. 
+
+---
+
+**Declaration:**
+
+I declare that I received help with my coding from my flatmate, who is experienced with programming. Additionally, I conducted several quick Google searches to resolve issues encountered during the development process. These searches helped in understanding how to implement specific features and troubleshoot problems, especially related to p5.js, as well as getting advice from relevant forums and communities.
